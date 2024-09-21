@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. My name is Damini Suranshe. I'm a student at GH Raisoni College of Engineering and Management studying Computer Science.
 
 <!--
 **DaminiSuranshe/DaminiSuranshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
