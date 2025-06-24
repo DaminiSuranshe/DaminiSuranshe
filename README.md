@@ -1,16 +1,31 @@
-## Hi there 👋. My name is Damini Suranshe. I'm a student at GH Raisoni College of Engineering and Management studying Computer Science.
+# 🛡️ Damini's Cybersecurity Journey
 
-<!--
-**DaminiSuranshe/DaminiSuranshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my official public repository documenting my full journey in becoming a cybersecurity professional. It includes structured learning, tools, hands-on projects, and development resources.
 
-Here are some ideas to get you started:
+## 🧠 Notes
+  Fundamentals in:
+    - Linux & Bash
+    - Networking Concepts
+    - Python for Security
+    - Malware & Threat Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+  Mini-tools and Python-based projects including:
+    - Port Scanners
+    - Vulnerability Scanners
+    - Log Parsers
+
+## 💼 Job Preparation
+  - My Resume & Career Roadmap
+  - SOC Analyst Interview Questions
+  - Behavioral + Technical Prep
+
+## 📚 Certifications & Training
+  - TryHackMe Certificates
+  - Self-paced Learning Progress
+
+---
+
+### 🌐 Let's Connect
+- [LinkedIn](www.linkedin.com/in/damini-suranshe-435975257)
+- [GitHub](https://github.com/YOURUSERNAME)
